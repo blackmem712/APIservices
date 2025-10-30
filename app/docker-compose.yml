@@ -6,12 +6,9 @@ services:
     ports:
       - "3000:3000"
     environment:
-      # Credenciais básicas do painel/admin do WAHA
       - WHATSAPP_API_ADMIN_USERNAME=${WAHA_ADMIN_USER:-admin}
       - WHATSAPP_API_ADMIN_PASSWORD=${WAHA_ADMIN_PASS:-change-me}
-      # Liberação de origem (CORS) — ajuste se quiser restringir
       - WHATSAPP_API_ALLOWED_ORIGINS=*
-      # Inicia um cliente padrão automaticamente
       - WHATSAPP_API_CLIENTS=default
       - WHATSAPP_API_DEFAULT_CLIENT_NAME=default
       - WHATSAPP_API_DEFAULT_CLIENT_START=true
@@ -29,7 +26,6 @@ services:
     env_file:
       - .env
     environment:
-      # Garante que a API enxergue o WAHA pelo nome do serviço na rede do compose
       - API_WAHA_BASE_URL=${API_WAHA_BASE_URL:-http://waha:3000}
     ports:
       - "8000:8000"
