@@ -1,0 +1,63 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# ===== Configuráveis via ambiente =====
+GIT_REPO="${GIT_REPO:-https://github.com/seu-usuario/APIservices.git}"
+BRANCH="${BRANCH:-main}"
+APP_DIR="${APP_DIR:-/opt/apiservices}"
+PORT_API="${PORT_API:-8000}"
+PORT_WAHA="${PORT_WAHA:-3000}"
+
+echo ">> Repositório: $GIT_REPO"
+echo ">> Branch.....: $BRANCH"
+echo ">> App dir....: $APP_DIR"
+
+# 1) Pré-requisitos
+command -v docker >/dev/null 2>&1 || { echo "Docker não encontrado"; exit 1; }
+# Compose v2 usa 'docker compose'
+docker compose version >/dev/null 2>&1 || { echo "Docker Compose v2 não encontrado"; exit 1; }
+
+# 2) Clona ou atualiza
+if [[ ! -d "$APP_DIR/.git" ]]; then
+  echo ">> Clonando repositório em $APP_DIR"
+  sudo mkdir -p "$APP_DIR"
+  sudo chown -R "$USER":"$USER" "$APP_DIR"
+  git clone "$GIT_REPO" "$APP_DIR"
+fi
+
+cd "$APP_DIR"
+echo ">> Atualizando branch $BRANCH"
+git fetch --all --prune
+git checkout "$BRANCH"
+git pull --ff-only origin "$BRANCH"
+
+# 3) .env
+if [[ ! -f ".env" ]]; then
+  if [[ -f ".env.example" ]]; then
+    echo ">> Criando .env a partir de .env.example (ajuste depois se precisar)"
+    cp .env.example .env
+  else
+    echo ">> AVISO: .env não existe e .env.example não encontrado. Siga a seção de env no README-DEPLOY."
+  fi
+fi
+
+# 4) Sobe com compose (API + WAHA)
+echo ">> Subindo containers com docker compose (build + up -d)"
+docker compose up -d --build
+
+# 5) Mostra status e endpoints
+echo
+echo "====== STATUS ======"
+docker compose ps
+
+echo
+echo "====== DICAS RÁPIDAS ======"
+echo "API   -> http://SEU_IP:${PORT_API}/  (docs em /api/docs)"
+echo "WAHA  -> http://SEU_IP:${PORT_WAHA}/  (faça login e pareie o WhatsApp)"
+echo
+echo ">> Logs iniciais (apiservices):"
+docker logs --tail 50 apiservices || true
+
+echo
+echo ">> Logs iniciais (waha):"
+docker logs --tail 50 waha || true
