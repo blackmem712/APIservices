@@ -1,6 +1,6 @@
 services:
   waha:
-    image: ghcr.io/devlikeapro/whatsapp-http-api:latest
+    image: devlikeapro/waha:latest
     container_name: waha
     restart: unless-stopped
     ports:
