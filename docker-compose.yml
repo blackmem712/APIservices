@@ -13,19 +13,19 @@ services:
       - WHATSAPP_API_DEFAULT_CLIENT_NAME=default
       - WHATSAPP_API_DEFAULT_CLIENT_START=true
     volumes:
-      - ../waha-data:/var/lib/whatsapp-http-api
+      - ./waha-data:/var/lib/whatsapp-http-api
 
   apiservices:
     build:
-      context: ..
-      dockerfile: ../Dockerfile
+      context: .            # <- RAIZ
+      dockerfile: app/Dockerfile
     image: apiservices:latest
     container_name: apiservices
     restart: unless-stopped
     depends_on:
       - waha
     env_file:
-      - ../.env
+      - .env                # <- .env da raiz
     environment:
       - API_WAHA_BASE_URL=${API_WAHA_BASE_URL:-http://waha:3000}
     ports:
