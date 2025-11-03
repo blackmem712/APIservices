@@ -8,13 +8,13 @@ APP_DIR="${APP_DIR:-/opt/apiservices}"
 PORT_API="${PORT_API:-8000}"
 PORT_WAHA="${PORT_WAHA:-3000}"
 
-echo ">> Repositório: $GIT_REPO"
+echo ">> Repositorio: $GIT_REPO"
 echo ">> Branch.....: $BRANCH"
 echo ">> App dir....: $APP_DIR"
 
-# 1) Pré-requisitos
-command -v docker >/dev/null 2>&1 || { echo "Docker não encontrado"; exit 1; }
-docker compose version >/dev/null 2>&1 || { echo "Docker Compose v2 não encontrado"; exit 1; }
+# 1) Pre-requisitos
+command -v docker >/dev/null 2>&1 || { echo "Docker nao encontrado"; exit 1; }
+docker compose version >/dev/null 2>&1 || { echo "Docker Compose v2 nao encontrado"; exit 1; }
 
 # 2) Acesso SSH ao GitHub (garante known_hosts)
 mkdir -p ~/.ssh
@@ -23,7 +23,7 @@ ssh -o StrictHostKeyChecking=accept-new -T git@github.com || true
 
 # 3) Clona ou atualiza
 if [[ ! -d "$APP_DIR/.git" ]]; then
-  echo ">> Clonando repositório em $APP_DIR"
+  echo ">> Clonando repositorio em $APP_DIR"
   sudo mkdir -p "$APP_DIR"
   sudo chown -R "$USER":"$USER" "$APP_DIR"
   git clone "$GIT_REPO" "$APP_DIR"
@@ -41,7 +41,7 @@ if [[ ! -f ".env" ]]; then
     echo ">> Criando .env a partir de .env.example (ajuste depois se precisar)"
     cp .env.example .env
   else
-    echo ">> AVISO: .env não existe e .env.example não encontrado. Configure manualmente."
+    echo ">> AVISO: .env nao existe e .env.example nao encontrado. Configure manualmente."
   fi
 fi
 
