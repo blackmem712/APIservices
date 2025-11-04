@@ -18,6 +18,12 @@ uvicorn app.main:app --reload
 
 Aplicacao disponivel em `http://127.0.0.1:8000` com docs em `/api/docs`.
 
+## Variaveis de ambiente (.env)
+
+- O `docker-compose` e o `deploy.sh` leem um arquivo `.env` **na raiz do projeto** (mesmo nivel de `docker-compose.yml`).
+- Use `app/.env` apenas como referencia/exemplo; copie seu conteudo para `.env` e ajuste os valores reais (tokens do WAHA, caminhos de planilha, etc).
+- Esse arquivo ja esta listado no `.gitignore`, entao nao sera versionado.
+
 ## Documentacao (Swagger)
 
 - Acesse `http://127.0.0.1:8000/api/docs` para o Swagger UI gerado automaticamente.

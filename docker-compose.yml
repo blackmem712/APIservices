@@ -3,6 +3,8 @@ services:
     image: devlikeapro/waha:latest
     container_name: waha
     restart: unless-stopped
+    env_file:
+      - .env
     ports:
       - "3000:3000"
     environment:
