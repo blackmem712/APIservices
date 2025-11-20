@@ -24,6 +24,28 @@ class Settings(BaseSettings):
     waha_default_sender: str | None = None
     waha_timeout_seconds: float = Field(10.0, ge=1.0, le=60.0)
 
+    # Email settings
+    email_enabled: bool = False
+    email_provider: str | None = None  # "smtp", "sendgrid", "resend"
+    email_from: str = "noreply@example.com"
+    email_from_name: str = "API Services"
+    # SMTP settings
+    email_smtp_host: str | None = None
+    email_smtp_port: int = 587
+    email_smtp_user: str | None = None
+    email_smtp_password: str | None = None
+    email_smtp_use_tls: bool = True
+    # API settings
+    email_api_key: str | None = None
+    email_api_base_url: str | None = None
+
+    # MySQL settings
+    mysql_host: str = "localhost"
+    mysql_port: int = 3306
+    mysql_database: str = "contas_receber"
+    mysql_user: str = "apiuser"
+    mysql_password: str = "apipassword"
+
     model_config = SettingsConfigDict(
         env_prefix="API_",
         env_file=".env",

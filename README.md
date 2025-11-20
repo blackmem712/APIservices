@@ -31,11 +31,13 @@ Aplicacao disponivel em `http://127.0.0.1:8000` com docs em `/api/docs`.
 - Utilize a tag **services** para visualizar e testar o CRUD de servicos diretamente pelo Swagger.
 - Utilize a tag **reminders** para acionar manualmente o job que le o XLSX e envia avisos de boleto por WhatsApp.
 
-## Lembretes de boletos (WhatsApp + WAHA)
+## Lembretes de boletos (WhatsApp + Email)
 
 ### Configuracao
 
-Defina as variaveis abaixo no `.env` (ou direto no ambiente) para apontar para sua planilha e instancia WAHA:
+Defina as variaveis abaixo no `.env` (ou direto no ambiente) para apontar para sua planilha, instancia WAHA e servico de email:
+
+#### WhatsApp (WAHA)
 
 ```bash
 API_BILLING_SHEET_PATH=/caminho/para/clientes.xlsx
@@ -46,7 +48,44 @@ API_WAHA_DEFAULT_SENDER=5547999999999    # numero/dispositivo configurado no WAH
 API_WAHA_TIMEOUT_SECONDS=15              # opcional
 ```
 
-A planilha deve conter pelo menos as colunas `cliente`, `telefone/whatsapp` e `vencimento` (nomes podem variar, o servico reconhece alias comuns). Outras colunas sao ignoradas.
+#### Email (Opcional)
+
+Para habilitar envio de emails, configure uma das opcoes abaixo:
+
+**Opcao 1: SMTP (Gmail, Outlook, servidor proprio)**
+```bash
+API_EMAIL_ENABLED=true
+API_EMAIL_PROVIDER=smtp
+API_EMAIL_FROM=noreply@suaempresa.com
+API_EMAIL_FROM_NAME="Sua Empresa"
+API_EMAIL_SMTP_HOST=smtp.gmail.com
+API_EMAIL_SMTP_PORT=587
+API_EMAIL_SMTP_USER=seu@email.com
+API_EMAIL_SMTP_PASSWORD=sua-senha-ou-app-password
+API_EMAIL_SMTP_USE_TLS=true
+```
+
+**Opcao 2: API Transacional (SendGrid)**
+```bash
+API_EMAIL_ENABLED=true
+API_EMAIL_PROVIDER=sendgrid
+API_EMAIL_FROM=noreply@suaempresa.com
+API_EMAIL_FROM_NAME="Sua Empresa"
+API_EMAIL_API_KEY=SG.seu-token-sendgrid
+```
+
+> 📖 **Guia completo do SendGrid**: Veja `GUIA_SENDGRID.md` para instruções detalhadas passo a passo.
+
+**Opcao 3: API Transacional (Resend)**
+```bash
+API_EMAIL_ENABLED=true
+API_EMAIL_PROVIDER=resend
+API_EMAIL_FROM=noreply@suaempresa.com
+API_EMAIL_FROM_NAME="Sua Empresa"
+API_EMAIL_API_KEY=re_seu-token-resend
+```
+
+A planilha deve conter pelo menos as colunas `cliente`, `telefone/whatsapp` e `vencimento` (nomes podem variar, o servico reconhece alias comuns). A coluna `email` e opcional - se presente, emails serao enviados alem das mensagens do WhatsApp.
 
 ### Endpoint
 
@@ -63,7 +102,7 @@ Payload aceito:
 }
 ```
 
-Resposta traz o resumo da execucao (linhas analisadas, quantos envios feitos) e o detalhamento de cada cliente que estava a 3 ou 1 dia do vencimento.
+Resposta traz o resumo da execucao (linhas analisadas, quantos envios feitos) e o detalhamento de cada cliente que estava a 3 ou 1 dia do vencimento. O sistema envia tanto WhatsApp quanto Email (se configurado) para cada cliente elegivel.
 
 ### Como agendar diariamente
 

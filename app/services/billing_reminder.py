@@ -13,6 +13,11 @@ from app.models.reminder import (
     ReminderDispatchResult,
     ReminderStatus,
 )
+from app.services.email_client import EmailClient, EmailClientError
+from app.services.email_templates import (
+    get_billing_reminder_html,
+    get_billing_reminder_text,
+)
 from app.services.waha_client import WahaClient, WahaClientError
 
 
@@ -38,16 +43,18 @@ class BillingRowError(BillingReminderError):
 class BillingRecord:
     client_name: str
     whatsapp_number: str
+    email: str | None
     due_date: date
 
 
 class BillingReminderService:
-    """Read the billing XLSX and dispatch WhatsApp reminders."""
+    """Read the billing XLSX and dispatch WhatsApp and email reminders."""
 
     EXCEL_EPOCH = datetime(1899, 12, 30)
 
     CLIENT_HEADERS = {"cliente", "client", "clientenome", "nome", "name"}
     PHONE_HEADERS = {"telefone", "phone", "whatsapp", "numerowhatsapp", "numero"}
+    EMAIL_HEADERS = {"email", "e-mail", "mail", "correio"}
     DUE_HEADERS = {"vencimento", "datavencimento", "data", "duedate"}
 
     DATE_FORMATS = ("%Y-%m-%d", "%d/%m/%Y", "%d-%m-%Y", "%m/%d/%Y")
@@ -57,6 +64,8 @@ class BillingReminderService:
         default_sheet_path: str,
         reminder_days: Sequence[int],
         waha_client: WahaClient,
+        email_client: EmailClient | None = None,
+        email_enabled: bool = False,
     ) -> None:
         if not reminder_days:
             raise ValueError("reminder_days cannot be empty")
@@ -64,6 +73,8 @@ class BillingReminderService:
         self._default_sheet_path = default_sheet_path
         self._reminder_days = sorted(set(reminder_days))
         self._waha_client = waha_client
+        self._email_client = email_client
+        self._email_enabled = email_enabled
 
     def run(self, request: BillingReminderRequest) -> BillingReminderResponse:
         sheet_path = Path(request.sheet_path or self._default_sheet_path).expanduser()
@@ -86,9 +97,12 @@ class BillingReminderService:
             eligible_rows += 1
             message = self._build_message(record, days_until_due)
 
+            # Send WhatsApp
+            whatsapp_status = ReminderStatus.SKIPPED
+            whatsapp_detail = None
             if request.dry_run:
-                status = ReminderStatus.DRY_RUN
-                detail = "Dry-run ativado: mensagem nao enviada."
+                whatsapp_status = ReminderStatus.DRY_RUN
+                whatsapp_detail = "Dry-run: WhatsApp não enviado."
             else:
                 try:
                     api_result = self._waha_client.send_text_message(
@@ -96,13 +110,57 @@ class BillingReminderService:
                         message=message,
                         sender=request.sender_whatsapp_number,
                     )
-                    status = ReminderStatus.SENT
-                    detail = api_result.get("message", "Mensagem registrada no WAHA.")
+                    whatsapp_status = ReminderStatus.SENT
+                    whatsapp_detail = api_result.get("message", "Mensagem registrada no WAHA.")
                 except WahaClientError as exc:
-                    status = ReminderStatus.FAILED
-                    detail = str(exc)
+                    whatsapp_status = ReminderStatus.FAILED
+                    whatsapp_detail = str(exc)
 
-            if status in {ReminderStatus.SENT, ReminderStatus.DRY_RUN}:
+            # Send Email
+            email_status = ReminderStatus.SKIPPED
+            email_detail = None
+            if self._email_enabled and self._email_client and record.email:
+                if request.dry_run:
+                    email_status = ReminderStatus.DRY_RUN
+                    email_detail = "Dry-run: Email não enviado."
+                else:
+                    try:
+                        html_content = get_billing_reminder_html(
+                            record.client_name, record.due_date, days_until_due
+                        )
+                        text_content = get_billing_reminder_text(
+                            record.client_name, record.due_date, days_until_due
+                        )
+                        email_result = self._email_client.send_email(
+                            to_email=record.email,
+                            subject=f"Lembrete de Boleto - Vence em {days_until_due} dia(s)",
+                            html_content=html_content,
+                            text_content=text_content,
+                        )
+                        email_status = ReminderStatus.SENT
+                        email_detail = email_result.get("message", "Email enviado com sucesso.")
+                    except EmailClientError as exc:
+                        email_status = ReminderStatus.FAILED
+                        email_detail = str(exc)
+            elif record.email is None:
+                email_detail = "Email não informado na planilha."
+
+            # Determine overall status (SENT if at least one succeeded)
+            overall_status = whatsapp_status
+            if email_status == ReminderStatus.SENT and whatsapp_status != ReminderStatus.SENT:
+                overall_status = ReminderStatus.SENT
+            elif whatsapp_status == ReminderStatus.SENT:
+                overall_status = ReminderStatus.SENT
+
+            # Build detail message
+            detail_parts = []
+            if whatsapp_detail:
+                detail_parts.append(f"WhatsApp: {whatsapp_detail}")
+            if email_detail:
+                detail_parts.append(f"Email: {email_detail}")
+            detail = " | ".join(detail_parts) if detail_parts else None
+
+            if overall_status in {ReminderStatus.SENT, ReminderStatus.DRY_RUN}:
                 dispatched += 1
 
             results.append(
@@ -111,7 +169,7 @@ class BillingReminderService:
                     whatsapp_number=record.whatsapp_number,
                     due_date=record.due_date,
                     days_until_due=days_until_due,
-                    status=status,
+                    status=overall_status,
                     message_preview=message[:120],
                     detail=detail,
                 )
@@ -169,6 +227,8 @@ class BillingReminderService:
                 indexes["client_name"] = idx
             elif normalized in self.PHONE_HEADERS:
                 indexes["whatsapp_number"] = idx
+            elif normalized in self.EMAIL_HEADERS:
+                indexes["email"] = idx
             elif normalized in self.DUE_HEADERS:
                 indexes["due_date"] = idx
 
@@ -195,9 +255,19 @@ class BillingReminderService:
         if not client_name or not whatsapp_number:
             raise BillingRowError("Linha com cliente ou telefone invalido.")
 
+        # Email is optional
+        email = None
+        if "email" in indexes:
+            email_value = row[indexes["email"]]
+            if email_value:
+                email = str(email_value).strip().lower()
+                if not email or "@" not in email:
+                    email = None
+
         return BillingRecord(
             client_name=client_name,
             whatsapp_number=whatsapp_number,
+            email=email,
             due_date=due_date,
         )
 

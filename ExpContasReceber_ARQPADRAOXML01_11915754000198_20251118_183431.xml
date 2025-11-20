@@ -1,0 +1,4656 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>57940</codcliente>
+    <cpf>712.379.662-48</cpf>
+    <nome>MARIA RENE ROSSEL GUASINAVE</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BOM SOSSEGO KM 17 - FAZENDA / INDIGENA</logradouro>
+    <numero>0</numero>
+    <bairro>ZONA RURAL</bairro>
+    <cep>76850000</cep>
+    <descmuni>Guajará-Mirim</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>31 </nfserie>
+    <nfnum>1886     </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5012-8998</numerocontrato>
+    <nossonumero>09750002010763315673</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>16/11/2024</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>73.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>69696</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>7234992</rg>
+    <datanascimento>15/12/2005</datanascimento>
+    <fone>69981145392</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>59969</codcliente>
+    <cpf>758.519.462-53</cpf>
+    <nome>LESSANDRA ROCHA DOS SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>ARTEMIS - </logradouro>
+    <numero>238</numero>
+    <bairro>TRIÂNGULO</bairro>
+    <cep>76801070</cep>
+    <descmuni>Porto Velho</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>30 </nfserie>
+    <nfnum>2261     </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5106-18452</numerocontrato>
+    <nossonumero>09750002010763308023</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>15/02/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>72565</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>75851946253</rg>
+    <datanascimento>01/07/1984</datanascimento>
+    <fone>69992460123</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>61241</codcliente>
+    <cpf>916.327.572-49</cpf>
+    <nome>EDJANE SANTOS DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>GRAFITA - </logradouro>
+    <numero>5349</numero>
+    <bairro>CIDADE NOVA</bairro>
+    <cep>76801000</cep>
+    <descmuni>Porto Velho</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>30 </nfserie>
+    <nfnum>2552     </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5089-3420</numerocontrato>
+    <nossonumero>09750002010763308905</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>16/04/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>86.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>74439</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>91632757249</rg>
+    <datanascimento>04/08/1986</datanascimento>
+    <fone>69993067594</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62395</codcliente>
+    <cpf>532.634.482-34</cpf>
+    <nome>JOSÉ SALDANHA VILPA JAMINAWA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TRAVESSA ADRIANO - </logradouro>
+    <numero>46</numero>
+    <bairro>DA PISTA</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>286      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5074-1828</numerocontrato>
+    <nossonumero>09750002010763280812</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>12/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>75929</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>53263448234</rg>
+    <datanascimento>16/09/1984</datanascimento>
+    <fone>68999649346</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62397</codcliente>
+    <cpf>961.724.792-53</cpf>
+    <nome>FABIANA SOUZA DE OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>FLORENTINO PERES - </logradouro>
+    <numero>11</numero>
+    <bairro>BOM SUCESSO</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>288      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5072-677</numerocontrato>
+    <nossonumero>09750002010763280821</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>12/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>75931</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>96172479253</rg>
+    <datanascimento>16/03/1987</datanascimento>
+    <fone>69992014180</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62411</codcliente>
+    <cpf>098.597.472-96</cpf>
+    <nome>SHAYRLA ALMEIDA DE OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV AVELINO CHAVES - </logradouro>
+    <numero>30</numero>
+    <bairro>VILA MILITAR</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>298      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1726</numerocontrato>
+    <nossonumero>09750002010763280850</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>13/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>75966</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>09859747296</rg>
+    <datanascimento>31/10/2004</datanascimento>
+    <fone>689999938550</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62412</codcliente>
+    <cpf>982.432.172-15</cpf>
+    <nome>ZILENI ALVES DE LIMA ARAÚJO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV AVELINO CHAVES - </logradouro>
+    <numero>125</numero>
+    <bairro>CENTRO</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>299      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1698</numerocontrato>
+    <nossonumero>09750002010763280855</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>13/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>75967</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>98243217215</rg>
+    <datanascimento>21/12/1985</datanascimento>
+    <fone>68999562637</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62415</codcliente>
+    <cpf>722.633.852-15</cpf>
+    <nome>ALESSANDRA NASCIMENTO DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOÃO MARÇAL - </logradouro>
+    <numero>41</numero>
+    <bairro>BOSQUE</bairro>
+    <cep>68940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>302      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1677</numerocontrato>
+    <nossonumero>09750002010763280868</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>13/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>75970</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>72263385215</rg>
+    <datanascimento>21/11/1976</datanascimento>
+    <fone>68999814450</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62443</codcliente>
+    <cpf>665.732.622-04</cpf>
+    <nome>FRANCISCA ANTÔNIA OLIVEIRA DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SARGENTO SOUZA - </logradouro>
+    <numero>200</numero>
+    <bairro>CENTRO</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>309      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1770</numerocontrato>
+    <nossonumero>09750002010763280890</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76002</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>66573262204</rg>
+    <datanascimento>13/04/1972</datanascimento>
+    <fone>68999924677</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62445</codcliente>
+    <cpf>700.902.022-10</cpf>
+    <nome>BRUNA RODRIGUES DE MELO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RAIMUNDO CRISTINO SE SOUZA - </logradouro>
+    <numero>366</numero>
+    <bairro>VITÓRIA</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>311      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1760</numerocontrato>
+    <nossonumero>09750002010763280899</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76004</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>70090202210</rg>
+    <datanascimento>01/08/1995</datanascimento>
+    <fone>68999672072</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62447</codcliente>
+    <cpf>412.682.452-91</cpf>
+    <nome>MARIA INES BARROSO DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOSE PESSOA NOGUEIRA - </logradouro>
+    <numero>99</numero>
+    <bairro>VITORIA</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>313      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5074-1847</numerocontrato>
+    <nossonumero>09750002010763280908</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76006</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>41268245291</rg>
+    <datanascimento>24/06/1971</datanascimento>
+    <fone>68999000724</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62448</codcliente>
+    <cpf>519.643.502-63</cpf>
+    <nome>FRANCISCA DA SILVA PINHEIRO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOSÉ SOARES DA SILVA - </logradouro>
+    <numero>342</numero>
+    <bairro>VITÓRIA</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>314      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1571</numerocontrato>
+    <nossonumero>09750002010763280913</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76007</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>51964350263</rg>
+    <datanascimento>19/01/1983</datanascimento>
+    <fone>68999016383</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62449</codcliente>
+    <cpf>703.186.602-29</cpf>
+    <nome>GLEICY MIRANDA DE ALMEIDA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOSÉ SOARES DA SILVA - </logradouro>
+    <numero>246</numero>
+    <bairro>VITÓRIA</bairro>
+    <cep>68940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>315      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1766</numerocontrato>
+    <nossonumero>09750002010763280918</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76008</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>70318660229</rg>
+    <datanascimento>13/11/2002</datanascimento>
+    <fone>68996096852</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62508</codcliente>
+    <cpf>749.885.732-49</cpf>
+    <nome>BENEDITA DOMINGUES DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SANTA MARIA 302 - </logradouro>
+    <numero>302</numero>
+    <bairro>CRISTO LIBERTADOR</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>329      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5072-682</numerocontrato>
+    <nossonumero>09750002010763280959</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>16/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76106</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>74988573249</rg>
+    <datanascimento>04/07/1982</datanascimento>
+    <fone>68999818299</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62512</codcliente>
+    <cpf>999.501.382-72</cpf>
+    <nome>MARLÚCIA CAVALCANTE NOBRE</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RAMAL - </logradouro>
+    <numero>3790</numero>
+    <bairro>RURAL</bairro>
+    <cep>69940400</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>334      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1701</numerocontrato>
+    <nossonumero>09750002010763280982</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>16/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76111</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>99950138272</rg>
+    <datanascimento>06/04/1990</datanascimento>
+    <fone>68999432121</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62516</codcliente>
+    <cpf>707.123.712-30</cpf>
+    <nome>ANTÔNIO ABIMAEL BENTO DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV. GUANABARA - </logradouro>
+    <numero>1168</numero>
+    <bairro>JORGE ALVES JUNIOR</bairro>
+    <cep>68994000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>338      </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5073-1648</numerocontrato>
+    <nossonumero>09750002010763280995</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>16/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>76115</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>70712371230</rg>
+    <datanascimento>21/06/2006</datanascimento>
+    <fone>68999824276</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62549</codcliente>
+    <cpf>520.135.102-68</cpf>
+    <nome>MARIA GALDINO SOARES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOÃO RAIMUNDO 48 AP: 03 - </logradouro>
+    <numero>48</numero>
+    <bairro>JOÃO EDUARDO 1</bairro>
+    <cep>69911436</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2240     </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>5092 - 7928</numerocontrato>
+    <nossonumero>09750002010763366270</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>18/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>79.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>76154</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>179397</rg>
+    <datanascimento>07/03/1975</datanascimento>
+    <fone>68999293036</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62729</codcliente>
+    <cpf>673.384.612-87</cpf>
+    <nome>IRANI SOARES DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RAIMUNDO BRASILEIRO - CASA</logradouro>
+    <numero>3751</numero>
+    <bairro>SÃO JOSÉ</bairro>
+    <cep>76857000</cep>
+    <descmuni>Acrelândia</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>1687     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6032-127</numerocontrato>
+    <nossonumero>09750002010763292202</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>27/05/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>76390</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>67338461287</rg>
+    <datanascimento>28/07/1979</datanascimento>
+    <fone>69999881883</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63002</codcliente>
+    <cpf>014.010.302-38</cpf>
+    <nome>FRANCIMAR ALVES DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>EDMUNDO MONTEIRO - </logradouro>
+    <numero>2176</numero>
+    <bairro>SAO PEDRO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>31 </nfserie>
+    <nfnum>2271     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6020-212</numerocontrato>
+    <nossonumero>09750002010763316505</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>02/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>76784</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>21406596</rg>
+    <datanascimento>07/07/1991</datanascimento>
+    <fone>97984001422</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>62782</codcliente>
+    <cpf>894.535.732-72</cpf>
+    <nome>EMERSON SANTIAGO DA COSTA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>MANOEL LOBO - </logradouro>
+    <numero>2010</numero>
+    <bairro>SÃO PEDRO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>546      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6025-818</numerocontrato>
+    <nossonumero>09750002010763401721</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>02/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>76806</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>21297738</rg>
+    <datanascimento>23/07/1987</datanascimento>
+    <fone>97984410658</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63165</codcliente>
+    <cpf>065.658.932-92</cpf>
+    <nome>OTAVIO GOMES DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>MUNICIPAL 2 - </logradouro>
+    <numero>2399</numero>
+    <bairro>SÃO CRISTOVAO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2368     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6020 - 170</numerocontrato>
+    <nossonumero>09750002010763366680</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>06/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>77021</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>06565893292</rg>
+    <datanascimento>02/09/2006</datanascimento>
+    <fone>97981135544</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63173</codcliente>
+    <cpf>942.423.052-49</cpf>
+    <nome>ELEN DA SILVA SANTIAGO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA DA MATINHA - </logradouro>
+    <numero>628</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2403     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6020-67</numerocontrato>
+    <nossonumero>09750002010763217766</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>06/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>77031</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>39504948</rg>
+    <datanascimento>10/04/1987</datanascimento>
+    <fone>97984616478</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63342</codcliente>
+    <cpf>018.938.352-60</cpf>
+    <nome>IRENE DOS SANTOS LAGOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA DA OLARIA - COMERCIAL RJ</logradouro>
+    <numero>57</numero>
+    <bairro>NOSSA SENHORA DO CARMO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2430     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6026-24</numerocontrato>
+    <nossonumero>09750002010763217858</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>10/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>77272</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>24873705</rg>
+    <datanascimento>14/08/1991</datanascimento>
+    <fone>97984521773</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63400</codcliente>
+    <cpf>976.610.312-72</cpf>
+    <nome>LELANE DOS SANTOS GARCIA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PRUDENTE DE NOVAES - CASA</logradouro>
+    <numero>2261</numero>
+    <bairro>NOVA ESPERANÇA</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2425     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022-55</numerocontrato>
+    <nossonumero>09750002010763257194</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>11/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77372</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>20076169</rg>
+    <datanascimento>05/10/1987</datanascimento>
+    <fone>97984403775</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63458</codcliente>
+    <cpf>792.248.062-87</cpf>
+    <nome>RAIMUNDA RODRIGUES DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JAMARI - CASA</logradouro>
+    <numero>2471</numero>
+    <bairro>SÃO SEBASTIÃO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>1778     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6018-368</numerocontrato>
+    <nossonumero>09750002010763292471</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>12/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>77504</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>11498471</rg>
+    <datanascimento>25/07/1979</datanascimento>
+    <fone>97984029246</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63460</codcliente>
+    <cpf>039.091.052-03</cpf>
+    <nome>LAUDEIR DE OLIVEIRA SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>HÉLIO LOBO - CASA</logradouro>
+    <numero>3481</numero>
+    <bairro>NOVA ESPERANÇA</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>92       </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6018 361</numerocontrato>
+    <nossonumero>09750002010763410291</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>12/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>77506</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>40533778</rg>
+    <datanascimento>16/06/2005</datanascimento>
+    <fone>97981241769</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63489</codcliente>
+    <cpf>028.421.112-57</cpf>
+    <nome>GLACIANE RODRIGUES DE LIMA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PADRE LUIS BERNARDES - </logradouro>
+    <numero>3313</numero>
+    <bairro>DIVINO PRANTO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>706      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022 - 206</numerocontrato>
+    <nossonumero>09750002010763392100</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>12/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>77545</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02842111257</rg>
+    <datanascimento>18/02/1990</datanascimento>
+    <fone>97981231757</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63512</codcliente>
+    <cpf>046.697.122-25</cpf>
+    <nome>ALCIENE SILVA DE LIMA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PARQUE DAS MANGABEIRAS - CASA</logradouro>
+    <numero>1324</numero>
+    <bairro>SÃO DOMINGOS SÁVIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2456     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022-198</numerocontrato>
+    <nossonumero>09750002010763257315</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>13/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77583</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1563567</rg>
+    <datanascimento>02/05/2001</datanascimento>
+    <fone>97981281647</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63523</codcliente>
+    <cpf>004.570.422-81</cpf>
+    <nome>JOSE CARLOS DOS REIS MENEZES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>DAS FLORES BECO BACURI - </logradouro>
+    <numero>389</numero>
+    <bairro>SÃO JOSÉ</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>715      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6028 - 37</numerocontrato>
+    <nossonumero>09750002010763392140</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>13/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>77595</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>21319871</rg>
+    <datanascimento>26/10/1979</datanascimento>
+    <fone>97981062911</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63204</codcliente>
+    <cpf>058.798.002-88</cpf>
+    <nome>MARIA ANTONIA LEÃO ASSIMIN</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>VILAS BOAS - </logradouro>
+    <numero>738</numero>
+    <bairro>SÃO JOSÉ</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>105      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6026 312</numerocontrato>
+    <nossonumero>09750002010763410326</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>13/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>77616</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1693376</rg>
+    <datanascimento>03/10/2001</datanascimento>
+    <fone>97991502623</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63554</codcliente>
+    <cpf>061.555.152-12</cpf>
+    <nome>VITÓRIA FERREIRA MENEZES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA MONTEIRO - CASA</logradouro>
+    <numero>1563</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2470     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6029-253</numerocontrato>
+    <nossonumero>09750002010763257364</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77643</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>37956027</rg>
+    <datanascimento>20/01/2000</datanascimento>
+    <fone>97984351978</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>51000</codcliente>
+    <cpf>007.240.562-70</cpf>
+    <nome>ELVIS RICARDO CARVALHO MAULAES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>MONTEIRO - </logradouro>
+    <numero>1953</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>725      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6017 - 488</numerocontrato>
+    <nossonumero>09750002010763392172</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>77649</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>00724056270</rg>
+    <datanascimento>02/05/1988</datanascimento>
+    <fone>97981014548</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63575</codcliente>
+    <cpf>051.463.702-14</cpf>
+    <nome>ALEXANDRE MARQUES MORAIS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>QUATRO - SEM NÚMERO / CONJUNTO HABITACIONAL</logradouro>
+    <numero>000</numero>
+    <bairro>SANTA CLARA</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>474      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6030-905</numerocontrato>
+    <nossonumero>09750002010763281530</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77668</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>05146370214</rg>
+    <datanascimento>19/06/2004</datanascimento>
+    <fone>97981213143</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63580</codcliente>
+    <cpf>042.230.822-64</cpf>
+    <nome>WILLIAN FERREIRA MENEZES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PEREIRA - </logradouro>
+    <numero>390</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>481      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6026-284</numerocontrato>
+    <nossonumero>09750002010763281555</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77675</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>04223082264</rg>
+    <datanascimento>16/07/1997</datanascimento>
+    <fone>97984556176</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63595</codcliente>
+    <cpf>855.176.822-00</cpf>
+    <nome>SILVANA MONTEIRO DE SENA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BENJAMIM CONSTANTE - </logradouro>
+    <numero>2378</numero>
+    <bairro>SÃO SEBASTIÃO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>486      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6023-866</numerocontrato>
+    <nossonumero>09750002010763281569</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>15/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77698</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>85517682200</rg>
+    <datanascimento>23/08/1969</datanascimento>
+    <fone>97984026044</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63605</codcliente>
+    <cpf>013.093.882-37</cpf>
+    <nome>MARGREIS RODRIGUES DE MENEZES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>S1 - AP 04</logradouro>
+    <numero>555</numero>
+    <bairro>CENTRO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>487      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6029-983</numerocontrato>
+    <nossonumero>09750002010763281574</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77711</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>01309388237</rg>
+    <datanascimento>09/07/1991</datanascimento>
+    <fone>97984076670</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63607</codcliente>
+    <cpf>001.601.612-23</cpf>
+    <nome>DANIELEN GOMES DO NASCIMENTO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BECO BACURI - </logradouro>
+    <numero>250</numero>
+    <bairro>SÃO JESUS</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>489      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6028-36</numerocontrato>
+    <nossonumero>09750002010763281579</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77713</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>00160161223</rg>
+    <datanascimento>07/07/1986</datanascimento>
+    <fone>97981063206</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63609</codcliente>
+    <cpf>020.161.112-08</cpf>
+    <nome>THAIANA LIMA DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CHICO FIRMINO - </logradouro>
+    <numero>609</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>491      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022-322</numerocontrato>
+    <nossonumero>09750002010763281588</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77715</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02016112208</rg>
+    <datanascimento>17/06/1990</datanascimento>
+    <fone>97984140090</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63610</codcliente>
+    <cpf>022.889.722-03</cpf>
+    <nome>MARIA DA CONCEIÇÃO TORA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SANTO ANTÔNIO - </logradouro>
+    <numero>329</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>492      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6028-41</numerocontrato>
+    <nossonumero>09750002010763281593</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77716</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02288972203</rg>
+    <datanascimento>09/12/1995</datanascimento>
+    <fone>97999034005</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63612</codcliente>
+    <cpf>057.603.922-55</cpf>
+    <nome>ALINE RODRIGUES DOS SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PEREIRA - </logradouro>
+    <numero>505</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>495      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6026-95</numerocontrato>
+    <nossonumero>09750002010763281608</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77719</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>05760392255</rg>
+    <datanascimento>17/06/2007</datanascimento>
+    <fone>97984576938</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63613</codcliente>
+    <cpf>057.599.092-90</cpf>
+    <nome>DANIELLE DE SOUZA COSTA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>DAS ORQUÍDEAS - </logradouro>
+    <numero>666</numero>
+    <bairro>SÃO FRANCISCO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>496      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6020-171</numerocontrato>
+    <nossonumero>09750002010763281613</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77720</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>05759909290</rg>
+    <datanascimento>22/05/2007</datanascimento>
+    <fone>97981062443</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63385</codcliente>
+    <cpf>530.321.872-49</cpf>
+    <nome>LAYLIANNE AIRES RELVAS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV BRASIL - CASA</logradouro>
+    <numero>1051</numero>
+    <bairro>SÃO FRANCISCO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2491     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6023-135</numerocontrato>
+    <nossonumero>09750002010763257443</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77732</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>53032187249</rg>
+    <datanascimento>04/05/1994</datanascimento>
+    <fone>97984080719</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63627</codcliente>
+    <cpf>024.056.322-09</cpf>
+    <nome>ALESSANDRA GOMES DENIZ</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>23 DE OUTUBRO - CASA</logradouro>
+    <numero>778</numero>
+    <bairro>NOVO CENTENÁRIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2499     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022-183</numerocontrato>
+    <nossonumero>09750002010763257469</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>16/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77740</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>28305612</rg>
+    <datanascimento>17/08/1992</datanascimento>
+    <fone>97984128670</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63652</codcliente>
+    <cpf>098.039.292-67</cpf>
+    <nome>RENAN DOS SANTOS DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA G - CADA</logradouro>
+    <numero>36</numero>
+    <bairro>CONJUNTO RIO MADEIRA</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2503     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>Yasmin</numerocontrato>
+    <nossonumero>09750002010763257489</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>17/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77771</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>34996206</rg>
+    <datanascimento>05/08/2003</datanascimento>
+    <fone>97984008326</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63673</codcliente>
+    <cpf>343.647.302-20</cpf>
+    <nome>MARIA LÚCIA DOS SANTOS COITINHO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV. BRASIL - </logradouro>
+    <numero>490</numero>
+    <bairro>SÃO FRANCISCO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>501      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6024-710</numerocontrato>
+    <nossonumero>09750002010763281631</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>17/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77803</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>34364730220</rg>
+    <datanascimento>16/09/1967</datanascimento>
+    <fone>97984379775</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63674</codcliente>
+    <cpf>028.694.212-73</cpf>
+    <nome>TAIANE FALCÃO PRESTES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>DA MATINHA - </logradouro>
+    <numero>234</numero>
+    <bairro>SANTO ANTÔNIO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>502      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6019-241</numerocontrato>
+    <nossonumero>09750002010763281635</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>17/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77804</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02869421273</rg>
+    <datanascimento>17/09/1993</datanascimento>
+    <fone>97984393344</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63675</codcliente>
+    <cpf>024.681.512-40</cpf>
+    <nome>PALOMA CAETANO BARRETO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>IRMÃ GEOVANA - </logradouro>
+    <numero>1017</numero>
+    <bairro>SÃO FRANCISCO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>503      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>5026-76</numerocontrato>
+    <nossonumero>09750002010763281640</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>17/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77805</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02468151240</rg>
+    <datanascimento>10/06/1994</datanascimento>
+    <fone>97984010046</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63287</codcliente>
+    <cpf>034.324.692-92</cpf>
+    <nome>PALOMA DE MORAES CANDIDO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PAULO MARQUES - </logradouro>
+    <numero>315</numero>
+    <bairro>NOSSA SENHORA DO CARMO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>507      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6019-233</numerocontrato>
+    <nossonumero>09750002010763281656</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>17/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>77809</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>03432469292</rg>
+    <datanascimento>18/01/1999</datanascimento>
+    <fone>97981186899</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>26458</codcliente>
+    <cpf>055.401.572-22</cpf>
+    <nome>ADELANE DOS SANTOS LIMA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>DAS PAPOULA - </logradouro>
+    <numero>1139</numero>
+    <bairro>SÃO JOSÉ</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>1833     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022-180</numerocontrato>
+    <nossonumero>09750002010763292639</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>18/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>77859</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1565912</rg>
+    <datanascimento>16/07/2001</datanascimento>
+    <fone>97984003317</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63691</codcliente>
+    <cpf>017.287.832-24</cpf>
+    <nome>FLAVIA PEREIRA BARROS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TENENTE PIMENTA - CASA</logradouro>
+    <numero>410</numero>
+    <bairro>DIVINO PRANTO</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>1837     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6022-188</numerocontrato>
+    <nossonumero>09750002010763292657</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>18/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>77863</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>2657988</rg>
+    <datanascimento>16/07/1994</datanascimento>
+    <fone>97984009294</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63715</codcliente>
+    <cpf>076.755.872-35</cpf>
+    <nome>BEATRIZ RODRIGUES CARDOSO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA B - CASA</logradouro>
+    <numero>02</numero>
+    <bairro>CONJUNTO RIO MADEIRA</bairro>
+    <cep>69800000</cep>
+    <descmuni>Humaitá</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2539     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6019-260</numerocontrato>
+    <nossonumero>09750002010763257614</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>19/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>77898</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>39780341</rg>
+    <datanascimento>16/05/2006</datanascimento>
+    <fone>97981014233</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63781</codcliente>
+    <cpf>805.077.272-15</cpf>
+    <nome>LEIDIANE SANTANA DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>16 - </logradouro>
+    <numero>5787</numero>
+    <bairro>ZONA SUL</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2466     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-442</numerocontrato>
+    <nossonumero>09750002010763217998</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>23/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>78003</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>905168</rg>
+    <datanascimento>11/04/1983</datanascimento>
+    <fone>69993628311</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63799</codcliente>
+    <cpf>755.086.302-44</cpf>
+    <nome>ANDERSON FERREIRA AMORIM</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA ARARAS - </logradouro>
+    <numero>572</numero>
+    <bairro>JARDIM DAS PEDRAS</bairro>
+    <cep>78932000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2476     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-411</numerocontrato>
+    <nossonumero>09750002010763218028</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>25/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>78026</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>659803</rg>
+    <datanascimento>12/11/1983</datanascimento>
+    <fone>69999921723</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63835</codcliente>
+    <cpf>901.984.092-49</cpf>
+    <nome>VILMAR LIMA DOS SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PARANÁ - CASA</logradouro>
+    <numero>3902</numero>
+    <bairro>SETOR 5</bairro>
+    <cep>76870592</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>656      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-394</numerocontrato>
+    <nossonumero>09750002010763402111</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>28/06/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>78089</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1079580</rg>
+    <datanascimento>15/04/1988</datanascimento>
+    <fone>69993532907</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63890</codcliente>
+    <cpf>790.902.492-49</cpf>
+    <nome>ITAMARA DO NASCIMENTO CASTRO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SABIA - CASA</logradouro>
+    <numero>1019</numero>
+    <bairro>SETOR 2</bairro>
+    <cep>76873204</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>674      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-545</numerocontrato>
+    <nossonumero>09750002010763402176</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>01/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>78169</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>4055526</rg>
+    <datanascimento>12/07/1984</datanascimento>
+    <fone>69999800730</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63892</codcliente>
+    <cpf>547.173.022-49</cpf>
+    <nome>LEIDIANI CARVALHO DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SÁBIA - CASA</logradouro>
+    <numero>1522</numero>
+    <bairro>SETOR 2</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>676      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-499</numerocontrato>
+    <nossonumero>09750002010763402185</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>01/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>78171</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1891840</rg>
+    <datanascimento>26/04/1986</datanascimento>
+    <fone>69993222655</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63979</codcliente>
+    <cpf>053.258.222-50</cpf>
+    <nome>BRUNA CRISTINA DOS SANTOS SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RIO CRESPO - CASA</logradouro>
+    <numero>2380</numero>
+    <bairro>APOIO SOCIAL</bairro>
+    <cep>76980000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>133      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>641</numerocontrato>
+    <nossonumero>09750002010763410387</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>03/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>78289</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>05325822250</rg>
+    <datanascimento>14/05/2005</datanascimento>
+    <fone>69993442236</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63996</codcliente>
+    <cpf>079.698.002-03</cpf>
+    <nome>PEDRO LUCAS SOARES FERREIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BEIJA FLOR - </logradouro>
+    <numero>1008</numero>
+    <bairro>SETOR 02</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2511     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-700</numerocontrato>
+    <nossonumero>09750002010763218136</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>03/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>78306</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1873316</rg>
+    <datanascimento>05/04/2007</datanascimento>
+    <fone>69993925909</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64002</codcliente>
+    <cpf>056.969.052-85</cpf>
+    <nome>ERICA CHAIANE SANTOS DE OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA 40 - CASA</logradouro>
+    <numero>1384</numero>
+    <bairro>JARDIM ZONA SUL</bairro>
+    <cep>76876829</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2589     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6084-297</numerocontrato>
+    <nossonumero>09750002010763257774</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>03/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78315</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1592054</rg>
+    <datanascimento>17/10/2004</datanascimento>
+    <fone>69992679204</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64029</codcliente>
+    <cpf>037.844.642-89</cpf>
+    <nome>FABIOLA CAMPOS BISPO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SAO MIGUEL - MORA NA FABRICA DE CARVÃO E NAO TEM COMPROVANTE RESIDÊNCIA.</logradouro>
+    <numero>467</numero>
+    <bairro>SAO GERALDO 2</bairro>
+    <cep>76870970</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2396     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6071 - 344</numerocontrato>
+    <nossonumero>09750002010763366757</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>04/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>78371</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1385132</rg>
+    <datanascimento>25/09/1990</datanascimento>
+    <fone>69992357010</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64032</codcliente>
+    <cpf>923.939.692-68</cpf>
+    <nome>GLEDIS ALAX RODRIGUES BEZERRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SABUARANA - </logradouro>
+    <numero>1914</numero>
+    <bairro>SETOR 1</bairro>
+    <cep>76870146</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2399     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>7727 - 09</numerocontrato>
+    <nossonumero>09750002010763366766</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>04/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>78374</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>999119</rg>
+    <datanascimento>19/01/1988</datanascimento>
+    <fone>69993636275</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64040</codcliente>
+    <cpf>555.626.552-68</cpf>
+    <nome>JAFIA ALVES DE SOUZ</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV TUCANO - CASA</logradouro>
+    <numero>4130</numero>
+    <bairro>SETOR 09</bairro>
+    <cep>76876400</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2599     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6084-623</numerocontrato>
+    <nossonumero>09750002010763257799</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>04/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78382</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>5556265268</rg>
+    <datanascimento>25/11/1992</datanascimento>
+    <fone>69992209874</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>63799</codcliente>
+    <cpf>755.086.302-44</cpf>
+    <nome>ANDERSON FERREIRA AMORIM</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA ARARAS - </logradouro>
+    <numero>572</numero>
+    <bairro>JARDIM DAS PEDRAS</bairro>
+    <cep>78932000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2607     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>7727-97</numerocontrato>
+    <nossonumero>09750002010763257825</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>04/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78390</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>659803</rg>
+    <datanascimento>12/11/1983</datanascimento>
+    <fone>69999921723</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64081</codcliente>
+    <cpf>042.027.565-76</cpf>
+    <nome>CARLA OLIVEIRA DOS SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>FLORIANÓPOLIS - </logradouro>
+    <numero>2900</numero>
+    <bairro>SETOR 03</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>24 </nfserie>
+    <nfnum>4230     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>7727-89</numerocontrato>
+    <nossonumero>09750002010763242885</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>01/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>63841</vendcod>
+    <nomevend />
+    <codmov>78428</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1807272</rg>
+    <datanascimento>26/02/1990</datanascimento>
+    <fone>69999598985</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64104</codcliente>
+    <cpf>838.645.042-87</cpf>
+    <nome>PATRÍCIA ALCIONE DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>17 - CASA</logradouro>
+    <numero>5829</numero>
+    <bairro>ZONA SUL</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>694      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-515</numerocontrato>
+    <nossonumero>09750002010763402239</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>04/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>78457</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>859491</rg>
+    <datanascimento>08/01/1985</datanascimento>
+    <fone>69992599639</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64110</codcliente>
+    <cpf>975.338.312-68</cpf>
+    <nome>SILVIO DOS SANTOS LIMA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>YURI GAGARI - CASA</logradouro>
+    <numero>3031</numero>
+    <bairro>SETOR 8</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>704      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-582</numerocontrato>
+    <nossonumero>09750002010763402273</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>04/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>78463</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>971011</rg>
+    <datanascimento>13/12/1986</datanascimento>
+    <fone>69993523233</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64140</codcliente>
+    <cpf>029.400.472-60</cpf>
+    <nome>MICHELE SOUSA LIMA BARROS</nome>
+    <fksiglalogra>AV</fksiglalogra>
+    <logradouro>CANAA - AO LADO DE LA BELLA STUDIO</logradouro>
+    <numero>4456</numero>
+    <bairro>SETOR 02</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2525     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-450</numerocontrato>
+    <nossonumero>09750002010763218176</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>07/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>78546</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02940047260</rg>
+    <datanascimento>25/02/1993</datanascimento>
+    <fone>69992128264</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64150</codcliente>
+    <cpf>684.741.562-20</cpf>
+    <nome>WALDINEIA ALVES DA COSTA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOSE LEVI BORGES DE OLIVEIRA - CASA</logradouro>
+    <numero>2995</numero>
+    <bairro>SETOR 8</bairro>
+    <cep>76980000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>146      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>543</numerocontrato>
+    <nossonumero>09750002010763410416</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>07/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>78557</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>749743</rg>
+    <datanascimento>01/11/1980</datanascimento>
+    <fone>69992232053</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64151</codcliente>
+    <cpf>400.149.048-02</cpf>
+    <nome>MARQUELY BARROS DE CARVALHO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA ACESSO - CASA</logradouro>
+    <numero>1787</numero>
+    <bairro>MONTE ALEGRE</bairro>
+    <cep>76980000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>147      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>708</numerocontrato>
+    <nossonumero>09750002010763410420</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>07/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>78558</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1887705</rg>
+    <datanascimento>18/10/1988</datanascimento>
+    <fone>69992485355</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64171</codcliente>
+    <cpf>859.736.022-49</cpf>
+    <nome>ROSIANE RODRIGUES DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>MARAJE - CASA</logradouro>
+    <numero>1116</numero>
+    <bairro>JARDIM DAS PEDRAS</bairro>
+    <cep>78932000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2627     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6071-184</numerocontrato>
+    <nossonumero>09750002010763257898</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>08/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>111.66</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78598</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>994236</rg>
+    <datanascimento>20/08/1989</datanascimento>
+    <fone>69993196324</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>46593</codcliente>
+    <cpf>713.280.412-04</cpf>
+    <nome>MAIZA SILVA RODRIGUES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PARANAVAI - </logradouro>
+    <numero>5157</numero>
+    <bairro>SETOR 09 DE CIMA</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2440     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6084 - 0282</numerocontrato>
+    <nossonumero>09750002010763366863</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>10/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>78666</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>690067</rg>
+    <datanascimento>06/04/1980</datanascimento>
+    <fone>69984941288</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64230</codcliente>
+    <cpf>016.474.112-70</cpf>
+    <nome>ALCIONE APARECIDA DE OLIVEIRA FREITAS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>LAGES - </logradouro>
+    <numero>4768</numero>
+    <bairro>SETOR 9</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2443     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6084 - 0217</numerocontrato>
+    <nossonumero>09750002010763366878</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>10/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>78669</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1384936</rg>
+    <datanascimento>18/06/1992</datanascimento>
+    <fone>66993810468</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64265</codcliente>
+    <cpf>689.551.972-68</cpf>
+    <nome>MARIA HELENA CAMPOS GONZAGA DA ROCHA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RÁDIO FAROL - </logradouro>
+    <numero>195</numero>
+    <bairro>AEROPORTO VELHO</bairro>
+    <cep>69900120</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1585     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16449</numerocontrato>
+    <nossonumero>09750002010763224986</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>11/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>78713</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>361715</rg>
+    <datanascimento>17/07/1980</datanascimento>
+    <fone>68984022432</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64266</codcliente>
+    <cpf>509.402.522-87</cpf>
+    <nome>ANA MARIA DOS SANTOS OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RIO GRANDE DO SUL - </logradouro>
+    <numero>3386</numero>
+    <bairro>AEROPORVELHO</bairro>
+    <cep>69915000</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1586     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-1620</numerocontrato>
+    <nossonumero>09750002010763224991</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>11/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>89.50</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>78714</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>0297108</rg>
+    <datanascimento>27/05/1980</datanascimento>
+    <fone>68996005494</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64287</codcliente>
+    <cpf>004.138.402-47</cpf>
+    <nome>JHONATHAN VANZIN BEZERRA DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CANÁRIO - </logradouro>
+    <numero>1714</numero>
+    <bairro>SETOR 02</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2537     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6072-468</numerocontrato>
+    <nossonumero>09750002010763218194</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>12/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>78738</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1409523</rg>
+    <datanascimento>04/12/1990</datanascimento>
+    <fone>69984897598</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64169</codcliente>
+    <cpf>837.362.802-97</cpf>
+    <nome>VANILDA APARECIDA PAES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>ICAMIABAS - CASA</logradouro>
+    <numero>684</numero>
+    <bairro>JORGE TEIXEIRA</bairro>
+    <cep>76876484</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2647     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>HUGO PAES 35</numerocontrato>
+    <nossonumero>09750002010763257920</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78799</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>879367</rg>
+    <datanascimento>01/05/1983</datanascimento>
+    <fone>69984722844</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64309</codcliente>
+    <cpf>000.093.222-13</cpf>
+    <nome>ANDREIA DA PENHA FERREIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA MOGNO - APART</logradouro>
+    <numero>2307</numero>
+    <bairro>NOVA BRASÍLIA</bairro>
+    <cep>76908670</cep>
+    <descmuni>Ji-Paraná</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2648     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>JOÃO 6071-87</numerocontrato>
+    <nossonumero>09750002010763257924</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>14/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78800</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>948441</rg>
+    <datanascimento>10/11/1984</datanascimento>
+    <fone>69993664184</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64330</codcliente>
+    <cpf>892.857.002-68</cpf>
+    <nome>SAIRE TUANE DA COSTA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TRAVESSA VILHENA - </logradouro>
+    <numero>52</numero>
+    <bairro>SOBRAL</bairro>
+    <cep>69915000</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1597     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16423</numerocontrato>
+    <nossonumero>09750002010763225029</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>15/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>78848</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>10186654</rg>
+    <datanascimento>01/08/1989</datanascimento>
+    <fone>68992331647</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64336</codcliente>
+    <cpf>060.005.022-06</cpf>
+    <nome>ARTHUR ANTENOR RODRIGUES</nome>
+    <fksiglalogra>AL</fksiglalogra>
+    <logradouro>BEIJA FLOR - CASA</logradouro>
+    <numero>744</numero>
+    <bairro>SETOR 2</bairro>
+    <cep>76980000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>152      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>000</numerocontrato>
+    <nossonumero>09750002010763410442</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>15/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>78855</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1728990</rg>
+    <datanascimento>18/05/2005</datanascimento>
+    <fone>69993043278</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64343</codcliente>
+    <cpf>636.845.352-49</cpf>
+    <nome>GENECI BESSERT</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SAO LUIZ - </logradouro>
+    <numero>2042</numero>
+    <bairro>SETOR 4</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>602      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6075-06</numerocontrato>
+    <nossonumero>09750002010763282023</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>16/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>78863</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>63684535249</rg>
+    <datanascimento>29/05/1977</datanascimento>
+    <fone>69984395786</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64359</codcliente>
+    <cpf>027.985.512-50</cpf>
+    <nome>GLEYCIANE DE OLIVEIRA RIBEIRO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TV CAMPO NOVO - </logradouro>
+    <numero>99</numero>
+    <bairro>AYRTON SENA</bairro>
+    <cep>69915000</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1612     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16416</numerocontrato>
+    <nossonumero>09750002010763225087</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>17/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>78899</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1285946</rg>
+    <datanascimento>05/04/1990</datanascimento>
+    <fone>68999869060</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64379</codcliente>
+    <cpf>002.528.112-75</cpf>
+    <nome>CRISTINA DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SANTO ANTÔNIO - CASA</logradouro>
+    <numero>5643</numero>
+    <bairro>RAIO DE LUZ</bairro>
+    <cep>76877058</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2652     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>Emilly 34</numerocontrato>
+    <nossonumero>09750002010763257930</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>18/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>78940</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1166296</rg>
+    <datanascimento>10/04/1989</datanascimento>
+    <fone>69993587265</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>20725</codcliente>
+    <cpf>945.471.572-00</cpf>
+    <nome>ADRIANA ROSA OLIVEIRA SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PLÁCIDO DE CASTRO - </logradouro>
+    <numero>937</numero>
+    <bairro>SETOR 7</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>157      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6074 11</numerocontrato>
+    <nossonumero>09750002010763410455</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>18/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>78961</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1087983</rg>
+    <datanascimento>14/08/1984</datanascimento>
+    <fone>69993805785</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>20626</codcliente>
+    <cpf>996.917.362-68</cpf>
+    <nome>SILVANA DE JESUS ROCHA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SERGIPE - </logradouro>
+    <numero>2213</numero>
+    <bairro>SETOR 04</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>607      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6074-943</numerocontrato>
+    <nossonumero>09750002010763282037</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>18/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>78985</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>99691736268</rg>
+    <datanascimento>03/08/1987</datanascimento>
+    <fone>69992766870</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64412</codcliente>
+    <cpf>409.269.662-00</cpf>
+    <nome>GISELE DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>URUPA - </logradouro>
+    <numero>2792</numero>
+    <bairro>SETOR 4</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>608      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6074-988</numerocontrato>
+    <nossonumero>09750002010763282042</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>18/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>78986</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1691460</rg>
+    <datanascimento>18/08/1962</datanascimento>
+    <fone>69992537299</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64434</codcliente>
+    <cpf>739.001.412-15</cpf>
+    <nome>VALDINEI DA SILVA SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CACAULANDIA - </logradouro>
+    <numero>1102</numero>
+    <bairro>SETOR 2</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>611      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6077-152</numerocontrato>
+    <nossonumero>09750002010763282046</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>19/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>79013</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>73900141215</rg>
+    <datanascimento>11/07/1981</datanascimento>
+    <fone>69993455553</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64493</codcliente>
+    <cpf>085.655.282-86</cpf>
+    <nome>DAVID DA SILVA OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TRAVESSA SOLIDÃO - </logradouro>
+    <numero>54</numero>
+    <bairro>VOLTA SECA</bairro>
+    <cep>69911015</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1618     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16413</numerocontrato>
+    <nossonumero>09750002010763225100</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>22/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>79129</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>08565528286</rg>
+    <datanascimento>28/02/2006</datanascimento>
+    <fone>68992442197</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64495</codcliente>
+    <cpf>850.440.672-53</cpf>
+    <nome>GEICIELE DA SILVA TEIXEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TRAVESSA ITAGUATINA - </logradouro>
+    <numero>110</numero>
+    <bairro>VOLTA SECA</bairro>
+    <cep>69911009</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1620     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16479</numerocontrato>
+    <nossonumero>09750002010763225109</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>22/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>79131</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>361256</rg>
+    <datanascimento>04/05/1985</datanascimento>
+    <fone>68992369041</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64501</codcliente>
+    <cpf>457.467.962-04</cpf>
+    <nome>MARLI DA SILVEIRA GOMES RIBEIRO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>NITERÓI - </logradouro>
+    <numero>2426</numero>
+    <bairro>SETOR 6</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>861      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6074 - 869</numerocontrato>
+    <nossonumero>09750002010763392526</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>22/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>79137</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>443686</rg>
+    <datanascimento>16/04/1965</datanascimento>
+    <fone>6999708045</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>36087</codcliente>
+    <cpf>983.756.102-59</cpf>
+    <nome>VANUZA FAGUNDES RODRIGUES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>LINHA 26 - LT 200 - GB 01 - MARCO SATELITE KM 3 - MILHO VERDE</logradouro>
+    <numero>3</numero>
+    <bairro>RURAL</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2526     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6076 - 132</numerocontrato>
+    <nossonumero>09750002010763367014</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>23/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>79183</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>00001009521</rg>
+    <datanascimento>05/12/1981</datanascimento>
+    <fone>69992231349</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64522</codcliente>
+    <cpf>461.562.752-15</cpf>
+    <nome>ANTÔNIO RAIMUNDO DA MOTA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TRAVESSA MESSIAS - </logradouro>
+    <numero>08</numero>
+    <bairro>JOA EDUARDO</bairro>
+    <cep>69911488</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1623     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16229</numerocontrato>
+    <nossonumero>09750002010763225117</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>23/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>79190</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>46156275215</rg>
+    <datanascimento>18/02/1974</datanascimento>
+    <fone>68992449292</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64523</codcliente>
+    <cpf>217.539.622-34</cpf>
+    <nome>RAIMUNDA ABREU DE LIMA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SÃO SEBASTIÃO - </logradouro>
+    <numero>120</numero>
+    <bairro>JOA EDUARDO</bairro>
+    <cep>69911502</cep>
+    <descmuni>Rio Branco</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>22 </nfserie>
+    <nfnum>1624     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6122-16475</numerocontrato>
+    <nossonumero>09750002010763225122</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>23/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>17897</vendcod>
+    <nomevend />
+    <codmov>79191</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>105360</rg>
+    <datanascimento>30/11/1957</datanascimento>
+    <fone>68999502544</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64451</codcliente>
+    <cpf>767.867.492-91</cpf>
+    <nome>EDGAR SANTANA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SÃO GABRIEL - </logradouro>
+    <numero>1731</numero>
+    <bairro>SETOR 6</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>175      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6074 933</numerocontrato>
+    <nossonumero>09750002010763410492</nossonumero>
+    <numeroparcela>5</numeroparcela>
+    <datacontrato>23/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>79205</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>639601</rg>
+    <datanascimento>25/11/1973</datanascimento>
+    <fone>69992752920</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64666</codcliente>
+    <cpf>016.475.292-71</cpf>
+    <nome>LEIDAIANE CARIBE VITORIA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AVENIDA RIO BRANCO - </logradouro>
+    <numero>2131</numero>
+    <bairro>SETOR 01</bairro>
+    <cep>76887000</cep>
+    <descmuni>Campo Novo de Rondônia</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>24 </nfserie>
+    <nfnum>4271     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6082-0918</numerocontrato>
+    <nossonumero>09750002010763243044</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>28/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>63841</vendcod>
+    <nomevend />
+    <codmov>79433</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>01647529271</rg>
+    <datanascimento>25/11/1993</datanascimento>
+    <fone>69993433835</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64727</codcliente>
+    <cpf>567.946.491-87</cpf>
+    <nome>VERA LÚCIA DE SOUZA CARVALHO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PETROPOLIS - </logradouro>
+    <numero>2440</numero>
+    <bairro>SETOR 6</bairro>
+    <cep>76880000</cep>
+    <descmuni>Buritis</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>914      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6074 - 24</numerocontrato>
+    <nossonumero>09750002010763392583</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>31/07/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>79580</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1817147</rg>
+    <datanascimento>24/06/1971</datanascimento>
+    <fone>69993954025</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64812</codcliente>
+    <cpf>984.626.362-72</cpf>
+    <nome>MARIA VITORIA MARTINS PIMENTA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SANTA CRUZ - MUTIRÃO</logradouro>
+    <numero>1854</numero>
+    <bairro>JARDIM DO VALE</bairro>
+    <cep>76870000</cep>
+    <descmuni>Ariquemes</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2603     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6071-300</numerocontrato>
+    <nossonumero>09750002010763218294</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>09/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>79718</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1730388</rg>
+    <datanascimento>24/03/1989</datanascimento>
+    <fone>69993167373</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64851</codcliente>
+    <cpf>668.534.002-91</cpf>
+    <nome>CARLOS SÉRGIO DE CARVALHO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>17 DE ABRIL - CASA / GERENTE DO SUP MUNDIAL</logradouro>
+    <numero>0000</numero>
+    <bairro>CENTRO</bairro>
+    <cep>76937000</cep>
+    <descmuni>Costa Marques</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>25 </nfserie>
+    <nfnum>2740     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6006-01</numerocontrato>
+    <nossonumero>09750002010763258121</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>15/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>79796</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>734554</rg>
+    <datanascimento>27/04/1977</datanascimento>
+    <fone>69993640286</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64870</codcliente>
+    <cpf>022.362.271-08</cpf>
+    <nome>JUCIANA TELLE VALDIVINO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>LINHA 28 KM2,5 - ESTRADA P.A.NATAL</logradouro>
+    <numero>0000</numero>
+    <bairro>ZONA RURAL</bairro>
+    <cep>78335000</cep>
+    <descmuni>Colniza</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>1949     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6151-68</numerocontrato>
+    <nossonumero>09750002010763292913</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>15/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>79818</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>20167687</rg>
+    <datanascimento>10/02/1986</datanascimento>
+    <fone>66992478543</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64909</codcliente>
+    <cpf>008.493.412-30</cpf>
+    <nome>LUZIA RIBEIRO MONTEIRO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>05 DE AGOSTO - </logradouro>
+    <numero>8857</numero>
+    <bairro>CENTRO</bairro>
+    <cep>76937000</cep>
+    <descmuni>Costa Marques</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>24 </nfserie>
+    <nfnum>4301     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6006-11</numerocontrato>
+    <nossonumero>09750002010763243135</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>16/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>63841</vendcod>
+    <nomevend />
+    <codmov>79863</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1027639</rg>
+    <datanascimento>24/05/1991</datanascimento>
+    <fone>69993958327</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64914</codcliente>
+    <cpf>052.914.802-11</cpf>
+    <nome>JOÃO CARLOS DA SILVA JAKOPITSCH</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>LINHA 16 KM 18 - </logradouro>
+    <numero>0</numero>
+    <bairro>ZONA RURAL</bairro>
+    <cep>76937000</cep>
+    <descmuni>Costa Marques</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>24 </nfserie>
+    <nfnum>4309     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>600526</numerocontrato>
+    <nossonumero>09750002010763243147</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>16/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>63841</vendcod>
+    <nomevend />
+    <codmov>79870</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1639813</rg>
+    <datanascimento>27/07/1999</datanascimento>
+    <fone>69992084583</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>64963</codcliente>
+    <cpf>064.287.472-78</cpf>
+    <nome>MARIA FERNANDA SANTO FERREIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BAHIA - CASA</logradouro>
+    <numero>03</numero>
+    <bairro>CENTRO</bairro>
+    <cep>76915500</cep>
+    <descmuni>Ji-Paraná</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>802      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>103-13</numerocontrato>
+    <nossonumero>09750002010763402485</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>19/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>79954</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1615658</rg>
+    <datanascimento>18/09/2006</datanascimento>
+    <fone>69984549186</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65013</codcliente>
+    <cpf>469.281.382-20</cpf>
+    <nome>JOSEFA MARIA DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CASTELO BRANCO - CASA</logradouro>
+    <numero>4958</numero>
+    <bairro>CENTRO</bairro>
+    <cep>76930000</cep>
+    <descmuni>Alvorada D'Oeste</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>806      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>102-08</numerocontrato>
+    <nossonumero>09750002010763402490</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>20/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>80010</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>488882</rg>
+    <datanascimento>28/07/1962</datanascimento>
+    <fone>69984772815</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>14035</codcliente>
+    <cpf>082.591.332-29</cpf>
+    <nome>LINZI CORDERO DOS SANTOS</nome>
+    <fksiglalogra>AV</fksiglalogra>
+    <logradouro>16 DE JULHO - </logradouro>
+    <numero>1952</numero>
+    <bairro>CENTRO</bairro>
+    <cep>76937000</cep>
+    <descmuni>Costa Marques</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2637     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6003-18</numerocontrato>
+    <nossonumero>09750002010763218397</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>21/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>80013</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>08259133229</rg>
+    <datanascimento>30/10/1999</datanascimento>
+    <fone>69993831156</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65054</codcliente>
+    <cpf>981.415.202-10</cpf>
+    <nome>NEUCILENE MATEUS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>SEBASTIÃO NEVES - CASA</logradouro>
+    <numero>5160</numero>
+    <bairro>ALTO ALEGRE</bairro>
+    <cep>76930000</cep>
+    <descmuni>Alvorada D'Oeste</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>809      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>101-13424</numerocontrato>
+    <nossonumero>09750002010763402499</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>21/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>80059</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1000014</rg>
+    <datanascimento>03/09/1982</datanascimento>
+    <fone>69933004255</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65089</codcliente>
+    <cpf>037.564.712-09</cpf>
+    <nome>FABIANA DE SOUZA RODRIGUES</nome>
+    <fksiglalogra>AV</fksiglalogra>
+    <logradouro>BELO HORIZONTE - SO LADO DO SUPERMERCADO OURO</logradouro>
+    <numero>0000</numero>
+    <bairro>CIDADE ALTA</bairro>
+    <cep>78335000</cep>
+    <descmuni>Colniza</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>1994     </nfnum>
+    <valtotalnf>395.00</valtotalnf>
+    <numerocontrato>6153-17</numerocontrato>
+    <nossonumero>09750002010763292955</nossonumero>
+    <numeroparcela>4</numeroparcela>
+    <datacontrato>22/08/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>73.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>80157</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1385420</rg>
+    <datanascimento>24/10/1994</datanascimento>
+    <fone>66981111621</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65382</codcliente>
+    <cpf>015.700.911-45</cpf>
+    <nome>ROSEMAR LIBOSNIAK</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUBENS TONELIS - </logradouro>
+    <numero>64</numero>
+    <bairro>CENTRO</bairro>
+    <cep>78330000</cep>
+    <descmuni>Cotriguaçu</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>979      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6143 - 10522</numerocontrato>
+    <nossonumero>09750002010763392666</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>01/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>80640</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>17962900</rg>
+    <datanascimento>07/05/1982</datanascimento>
+    <fone>66984371621</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65480</codcliente>
+    <cpf>061.698.381-67</cpf>
+    <nome>ALESSANDRA CAROLINE DE OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA SANTANA - </logradouro>
+    <numero>110</numero>
+    <bairro>CENTRO</bairro>
+    <cep>78330000</cep>
+    <descmuni>Cotriguaçu</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>994      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6142 - 38</numerocontrato>
+    <nossonumero>09750002010763392686</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>02/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>80791</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>27443493</rg>
+    <datanascimento>30/03/1999</datanascimento>
+    <fone>66984454792</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65544</codcliente>
+    <cpf>048.834.922-22</cpf>
+    <nome>RICK RODRIGUES RANGEL</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA TIRADENTES - CASA</logradouro>
+    <numero>2205</numero>
+    <bairro>ALTA ALEGRE</bairro>
+    <cep>76935000</cep>
+    <descmuni>São Francisco do Guaporé</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>730      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6009-74</numerocontrato>
+    <nossonumero>09750002010763352300</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>04/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>80929</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1497237</rg>
+    <datanascimento>02/08/2001</datanascimento>
+    <fone>69993592367</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65556</codcliente>
+    <cpf>005.683.242-77</cpf>
+    <nome>MICHELE MIRANDA CORREIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PRESIDENTE COSTA E SILVA - AO LADO DA MECANICA</logradouro>
+    <numero>4325</numero>
+    <bairro>CIDADE ALTA</bairro>
+    <cep>76935000</cep>
+    <descmuni>São Francisco do Guaporé</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>21 </nfserie>
+    <nfnum>2698     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6011-154</numerocontrato>
+    <nossonumero>09750002010763218536</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>04/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>55224</vendcod>
+    <nomevend />
+    <codmov>80947</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>00568324277</rg>
+    <datanascimento>19/11/1988</datanascimento>
+    <fone>69993769252</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65605</codcliente>
+    <cpf>057.864.222-08</cpf>
+    <nome>STEFHANNE KLEIN FERREIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>MOGNO - CASA</logradouro>
+    <numero>0000</numero>
+    <bairro>PORTO MURTINHO</bairro>
+    <cep>76935000</cep>
+    <descmuni>São Francisco do Guaporé</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>743      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>STEFHANNE 6013-74</numerocontrato>
+    <nossonumero>09750002010763352312</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>06/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>81042</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1770232</rg>
+    <datanascimento>18/12/2006</datanascimento>
+    <fone>69992970761</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65674</codcliente>
+    <cpf>069.460.442-90</cpf>
+    <nome>ISABELE PINHEIRO SALINO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>MARECHAL CANDIDO RONDON - </logradouro>
+    <numero>3242</numero>
+    <bairro>CIDADE BAIXA</bairro>
+    <cep>76935000</cep>
+    <descmuni>São Francisco do Guaporé</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>37 </nfserie>
+    <nfnum>539      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6011-105</numerocontrato>
+    <nossonumero>09750002010763371538</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>08/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>81176</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>06946044290</rg>
+    <datanascimento>15/06/2007</datanascimento>
+    <fone>69984810994</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65844</codcliente>
+    <cpf>078.636.101-84</cpf>
+    <nome>JAQUELINE VIDAL DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA DO EVANGELIZADOR - </logradouro>
+    <numero>201</numero>
+    <bairro>CIDADE ALTA</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>1070     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6147 - 45</numerocontrato>
+    <nossonumero>09750002010763392821</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>12/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>81465</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>30834228</rg>
+    <datanascimento>27/11/2000</datanascimento>
+    <fone>66981373780</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65852</codcliente>
+    <cpf>830.421.722-87</cpf>
+    <nome>ROSANGELA CRISTINA LOREDO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>T 03 - CASA POPULAR</logradouro>
+    <numero>36</numero>
+    <bairro>CIDADE BAIXA</bairro>
+    <cep>76935000</cep>
+    <descmuni>São Francisco do Guaporé</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>802      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6009-116</numerocontrato>
+    <nossonumero>09750002010763352428</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>13/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>81473</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>958082</rg>
+    <datanascimento>02/04/1986</datanascimento>
+    <fone>69993177639</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65859</codcliente>
+    <cpf>057.353.141-22</cpf>
+    <nome>POLIANA APARECIDA DA SILVA ÂNGELO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>PRESIDENTE ITAMAR FRANCO - CASA</logradouro>
+    <numero>0054</numero>
+    <bairro>NOBRE</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>945      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6150-10836</numerocontrato>
+    <nossonumero>09750002010763402697</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>13/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>81480</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>05735314122</rg>
+    <datanascimento>11/10/1995</datanascimento>
+    <fone>66984626977</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65860</codcliente>
+    <cpf>075.070.852-28</cpf>
+    <nome>KETELY LORRAINY ARAÚJO DO CARMO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>HORIZONTE - CASA</logradouro>
+    <numero>884</numero>
+    <bairro>JD PRIMAVERA</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>946      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6148-49</numerocontrato>
+    <nossonumero>09750002010763402701</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>13/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>81.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>81481</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>07507085228</rg>
+    <datanascimento>14/04/2004</datanascimento>
+    <fone>66984100208</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65878</codcliente>
+    <cpf>858.991.001-68</cpf>
+    <nome>TERESA DA SILVA PINHEIRO BORGES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>NOVA ESPERANCA - </logradouro>
+    <numero>1678</numero>
+    <bairro>MINI ESTADIO</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>36 </nfserie>
+    <nfnum>2662     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6146 - 31</numerocontrato>
+    <nossonumero>09750002010763367204</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>13/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>42353</vendcod>
+    <nomevend />
+    <codmov>81501</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>10621865</rg>
+    <datanascimento>25/04/1973</datanascimento>
+    <fone>66984146342</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65887</codcliente>
+    <cpf>053.115.541-26</cpf>
+    <nome>BRUNO SOARES DOS SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA DAS HORTÊNSIA - </logradouro>
+    <numero>0000</numero>
+    <bairro>VILA NOVA</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>1089     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6150 - 10903</numerocontrato>
+    <nossonumero>09750002010763392843</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>14/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>81511</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>05311554126</rg>
+    <datanascimento>30/07/1993</datanascimento>
+    <fone>66984372672</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65929</codcliente>
+    <cpf>028.868.521-04</cpf>
+    <nome>DAYANE MAGALHÃES FERREIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CREVELANDIA - </logradouro>
+    <numero>233</numero>
+    <bairro>VILA NOVA</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>1105     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6147. - 41</numerocontrato>
+    <nossonumero>09750002010763392859</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>16/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>81607</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02886852104</rg>
+    <datanascimento>28/08/1983</datanascimento>
+    <fone>65992383635</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65952</codcliente>
+    <cpf>018.574.781-77</cpf>
+    <nome>JOELMA DA SILVA PINHEIRO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CLEVILANDIA - CASA</logradouro>
+    <numero>0595</numero>
+    <bairro>VILA NOVA</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>977      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6141-156</numerocontrato>
+    <nossonumero>09750002010763402777</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>16/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>81634</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>18993842</rg>
+    <datanascimento>15/07/1986</datanascimento>
+    <fone>66984674812</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65955</codcliente>
+    <cpf>000.646.752-03</cpf>
+    <nome>GESSICA MARA BATISTA CAVALCANTE</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TANCREDO NEVES - </logradouro>
+    <numero>1348</numero>
+    <bairro>SÃO JOSÉ</bairro>
+    <cep>76934000</cep>
+    <descmuni>Seringueiras</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>755      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>107-41</numerocontrato>
+    <nossonumero>09750002010763282398</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>16/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>81638</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1094661</rg>
+    <datanascimento>21/01/1991</datanascimento>
+    <fone>69992170393</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>15412</codcliente>
+    <cpf>838.215.892-72</cpf>
+    <nome>MARIA JOSÉ DA SILVA SIMOES</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>FLAMBOYANT - FARMACIA MANIPULAÇÃO</logradouro>
+    <numero>455</numero>
+    <bairro>CENTRO</bairro>
+    <cep>76934000</cep>
+    <descmuni>Seringueiras</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>756      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>105-37</numerocontrato>
+    <nossonumero>09750002010763282402</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>16/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>81639</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>83821589272</rg>
+    <datanascimento>25/08/1977</datanascimento>
+    <fone>69984799341</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65956</codcliente>
+    <cpf>036.029.522-31</cpf>
+    <nome>MIRIAM NUNES DE SIQUEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AV. BRASIL - </logradouro>
+    <numero>1378</numero>
+    <bairro>BELA VISTA</bairro>
+    <cep>76934000</cep>
+    <descmuni>Seringueiras</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>758      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>107-58</numerocontrato>
+    <nossonumero>09750002010763282410</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>16/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>81641</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>03602952231</rg>
+    <datanascimento>11/01/2004</datanascimento>
+    <fone>69984213516</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65955</codcliente>
+    <cpf>000.646.752-03</cpf>
+    <nome>GESSICA MARA BATISTA CAVALCANTE</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TANCREDO NEVES - </logradouro>
+    <numero>1348</numero>
+    <bairro>SÃO JOSÉ</bairro>
+    <cep>76934000</cep>
+    <descmuni>Seringueiras</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>807      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>105-95 EMANUELY</numerocontrato>
+    <nossonumero>09750002010763352442</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>17/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>81688</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1094661</rg>
+    <datanascimento>21/01/1991</datanascimento>
+    <fone>69992170393</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65978</codcliente>
+    <cpf>061.207.271-16</cpf>
+    <nome>TAÍS DE SOUSA DA CONCEIÇÃO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>AIRTON SENNA - CASA</logradouro>
+    <numero>0416</numero>
+    <bairro>CIDADE ALTA</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>986      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6147-30</numerocontrato>
+    <nossonumero>09750002010763402807</nossonumero>
+    <numeroparcela>3</numeroparcela>
+    <datacontrato>17/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>111.67</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>81703</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>30411238</rg>
+    <datanascimento>31/08/1998</datanascimento>
+    <fone>66984425732</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>65982</codcliente>
+    <cpf>017.266.322-96</cpf>
+    <nome>CLAUDIOHANIA BERMOND</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>VEREADOR RAIMUNDO DE OLIVEIRA - </logradouro>
+    <numero>259</numero>
+    <bairro>SÃO JOSE</bairro>
+    <cep>76934000</cep>
+    <descmuni>Seringueiras</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>761      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>105-24</numerocontrato>
+    <nossonumero>09750002010763282414</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>17/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>81708</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>01726632296</rg>
+    <datanascimento>28/02/2007</datanascimento>
+    <fone>69981419213</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66031</codcliente>
+    <cpf>021.226.702-74</cpf>
+    <nome>ROSANE NETO DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>OLAVO PIRES - </logradouro>
+    <numero>14</numero>
+    <bairro>CASA POPULAR</bairro>
+    <cep>76934000</cep>
+    <descmuni>Seringueiras</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>28 </nfserie>
+    <nfnum>769      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>107-13451</numerocontrato>
+    <nossonumero>09750002010763282432</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>18/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>45482</vendcod>
+    <nomevend />
+    <codmov>81770</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02122670274</rg>
+    <datanascimento>19/11/1993</datanascimento>
+    <fone>69992176247</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66140</codcliente>
+    <cpf>289.960.702-20</cpf>
+    <nome>MARIA RAIMUNDA DE SOUZA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BR 170 KM 17 - SÍTIO</logradouro>
+    <numero>001</numero>
+    <bairro>ZONA RURAL</bairro>
+    <cep>78340000</cep>
+    <descmuni>Juruena</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>1027     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6141-15</numerocontrato>
+    <nossonumero>09750002010763402877</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>22/09/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>81915</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>357298</rg>
+    <datanascimento>15/03/1962</datanascimento>
+    <fone>66984447764</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66385</codcliente>
+    <cpf>108.546.346-06</cpf>
+    <nome>MAYANE BEATRIZ</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>DAS CASTANHEIRAS - </logradouro>
+    <numero>124</numero>
+    <bairro>CENTRO</bairro>
+    <cep>78335000</cep>
+    <descmuni>Colniza</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>41 </nfserie>
+    <nfnum>286      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6158 132</numerocontrato>
+    <nossonumero>09750002010763410574</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>01/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>62780</vendcod>
+    <nomevend />
+    <codmov>82345</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>29692431</rg>
+    <datanascimento>15/03/2000</datanascimento>
+    <fone>659992814282</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66405</codcliente>
+    <cpf>038.581.061-00</cpf>
+    <nome>REGIANE APARECIDA VENTURA CARDOSO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>GILSON REZZIERI - </logradouro>
+    <numero>631</numero>
+    <bairro>CENTRO</bairro>
+    <cep>78345000</cep>
+    <descmuni>Castanheira</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>1200     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6144 - 10615</numerocontrato>
+    <nossonumero>09750002010763393021</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>01/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>82368</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>03858106100</rg>
+    <datanascimento>11/10/1991</datanascimento>
+    <fone>66999562494</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66410</codcliente>
+    <cpf>078.707.121-83</cpf>
+    <nome>NALISSON CARDINI DE PAULO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>RUA TRÊS COAB - </logradouro>
+    <numero>08</numero>
+    <bairro>GUADALUPE</bairro>
+    <cep>78345000</cep>
+    <descmuni>Castanheira</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>39 </nfserie>
+    <nfnum>1205     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6144 - 10645</numerocontrato>
+    <nossonumero>09750002010763393037</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>01/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59274</vendcod>
+    <nomevend />
+    <codmov>82373</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>07870712183</rg>
+    <datanascimento>28/11/2005</datanascimento>
+    <fone>66996153398</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66543</codcliente>
+    <cpf>048.603.051-24</cpf>
+    <nome>CLEONICE DOS SANTOS</nome>
+    <fksiglalogra>EST</fksiglalogra>
+    <logradouro>BR MT 170 KM 35 - FAZENDA PACAEMBU</logradouro>
+    <numero>010</numero>
+    <bairro>ZONA RURAL</bairro>
+    <cep>78345000</cep>
+    <descmuni>Castanheira</descmuni>
+    <uf>MT</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>1093     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6144-10617</numerocontrato>
+    <nossonumero>09750002010763402992</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>03/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>82586</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>24613614</rg>
+    <datanascimento>11/04/1993</datanascimento>
+    <fone>669991584431</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66614</codcliente>
+    <cpf>020.288.692-16</cpf>
+    <nome>CHEINY ERICA DA SILVA SANTOS</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>TUCANO - </logradouro>
+    <numero>5304</numero>
+    <bairro>BOM FUTURO</bairro>
+    <cep>76868000</cep>
+    <descmuni>Machadinho D'Oeste</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>37 </nfserie>
+    <nfnum>677      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6054-51</numerocontrato>
+    <nossonumero>09750002010763371808</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>09/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>83.75</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>82700</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>02028869216</rg>
+    <datanascimento>04/02/1994</datanascimento>
+    <fone>69992079602</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66713</codcliente>
+    <cpf>810.881.242-91</cpf>
+    <nome>CLAUDENISIA MORAES CORREIA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>NILO PEÇANHA - CASA / POSTO DE SAÚDE JOÃO BRAZ</logradouro>
+    <numero>560</numero>
+    <bairro>JOÃO ALVES</bairro>
+    <cep>69980000</cep>
+    <descmuni>Cruzeiro do Sul</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>898      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6132-16121</numerocontrato>
+    <nossonumero>09750002010763352603</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>19/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>96.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>82838</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>458102</rg>
+    <datanascimento>17/12/1981</datanascimento>
+    <fone>69992357370</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66923</codcliente>
+    <cpf>858.749.142-34</cpf>
+    <nome>JOSÉ FRANCISCO DA SILVA ALBINO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>ESPÍRITO SANTO - CASA</logradouro>
+    <numero>0421</numero>
+    <bairro>25 DE AGOSTO</bairro>
+    <cep>69890000</cep>
+    <descmuni>Cruzeiro do Sul</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>1122     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6137-45</numerocontrato>
+    <nossonumero>09750002010763403081</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>22/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>83122</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>075467</rg>
+    <datanascimento>28/07/1982</datanascimento>
+    <fone>68999932008</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>66962</codcliente>
+    <cpf>013.633.052-55</cpf>
+    <nome>JAIA CARDOSO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>CASTELO BRANCO - CASA</logradouro>
+    <numero>4583</numero>
+    <bairro>BOM FUTURO</bairro>
+    <cep>76868000</cep>
+    <descmuni>Machadinho D'Oeste</descmuni>
+    <uf>RO</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>29 </nfserie>
+    <nfnum>2113     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6054-33</numerocontrato>
+    <nossonumero>09750002010763293123</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>23/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>121.25</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>59367</vendcod>
+    <nomevend />
+    <codmov>83204</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>1203045</rg>
+    <datanascimento>23/03/1993</datanascimento>
+    <fone>69984083116</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>67151</codcliente>
+    <cpf>020.690.562-95</cpf>
+    <nome>MARIA JULIANA LIMA DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>ESTRADA DA FLORESTA - CASA CASA VERDE/ PRÓX AO POSTO DE SAÚDE</logradouro>
+    <numero>0000</numero>
+    <bairro>FLORESTA</bairro>
+    <cep>68985000</cep>
+    <descmuni>Guajará</descmuni>
+    <uf>AM</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>953      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>FRANCISCO PABLO</numerocontrato>
+    <nossonumero>09750002010763352764</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>27/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>83432</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>26221314</rg>
+    <datanascimento>29/12/1990</datanascimento>
+    <fone>68999919952</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>67298</codcliente>
+    <cpf>882.317.632-87</cpf>
+    <nome>FRANCISCA CELIANE DA SILVA OLIVEIRA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BECO DA GARAGEM - CASA</logradouro>
+    <numero>1590</numero>
+    <bairro>CENTRO</bairro>
+    <cep>69870000</cep>
+    <descmuni>Tarauacá</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>40 </nfserie>
+    <nfnum>1178     </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6127-20</numerocontrato>
+    <nossonumero>09750002010763403278</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>30/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>97.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>33</vendcod>
+    <nomevend />
+    <codmov>83658</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>88231763287</rg>
+    <datanascimento>13/10/1986</datanascimento>
+    <fone>68992100054</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>67331</codcliente>
+    <cpf>984.793.342-15</cpf>
+    <nome>SEBASTIANA DE ALBUQUERQUE SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>JOÃO PESSOA - CASA</logradouro>
+    <numero>741</numero>
+    <bairro>CENTRO</bairro>
+    <cep>69970000</cep>
+    <descmuni>Tarauacá</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>35 </nfserie>
+    <nfnum>969      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6129-35</numerocontrato>
+    <nossonumero>09750002010763352814</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>31/10/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>100.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>50763</vendcod>
+    <nomevend />
+    <codmov>83708</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>444097</rg>
+    <datanascimento>20/01/1985</datanascimento>
+    <fone>68992565089</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>67911</codcliente>
+    <cpf>000.022.292-50</cpf>
+    <nome>LUCIANA SANTANA DO NASCIMENTO</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>VICTOR HUGO BEZERRA - </logradouro>
+    <numero>340</numero>
+    <bairro>ANA VIEIRA</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>37 </nfserie>
+    <nfnum>888      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6113-156</numerocontrato>
+    <nossonumero>09750002010763372352</nossonumero>
+    <numeroparcela>2</numeroparcela>
+    <datacontrato>10/11/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>285.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>84490</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>10692690</rg>
+    <datanascimento>17/11/1987</datanascimento>
+    <fone>68992920333</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>68004</codcliente>
+    <cpf>875.122.112-87</cpf>
+    <nome>SIMONE MARQUES DE SOUZA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BOULEVARD CAFEZAL - </logradouro>
+    <numero>188</numero>
+    <bairro>CAFEZAL</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>37 </nfserie>
+    <nfnum>899      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6113-23</numerocontrato>
+    <nossonumero>09750002010763372385</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>11/11/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>150.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>84603</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>87512211287</rg>
+    <datanascimento>21/12/1980</datanascimento>
+    <fone>68984088093</fone>
+  </registro_cr>
+  <registro_cr>
+    <tipopessoa>F</tipopessoa>
+    <codcliente>68005</codcliente>
+    <cpf>834.353.952-49</cpf>
+    <nome>JOCINEIDE CARMO DA SILVA</nome>
+    <fksiglalogra>RUA</fksiglalogra>
+    <logradouro>BECO DO ADRIANO - </logradouro>
+    <numero>206</numero>
+    <bairro>PISTA</bairro>
+    <cep>69940000</cep>
+    <descmuni>Sena Madureira</descmuni>
+    <uf>AC</uf>
+    <codoper>802</codoper>
+    <descoper>VENDA POR CONTRATO</descoper>
+    <nfserie>37 </nfserie>
+    <nfnum>900      </nfnum>
+    <valtotalnf>485.00</valtotalnf>
+    <numerocontrato>6114-83</numerocontrato>
+    <nossonumero>09750002010763372390</nossonumero>
+    <numeroparcela>1</numeroparcela>
+    <datacontrato>11/11/2025</datacontrato>
+    <datavencimento>15/11/2025</datavencimento>
+    <valordocumento>200.00</valordocumento>
+    <codigoformapagto>2</codigoformapagto>
+    <descricaoformapagto>BOLETO CREDISIS</descricaoformapagto>
+    <vendcod>2030</vendcod>
+    <nomevend />
+    <codmov>84604</codmov>
+    <statusdoc>0-ABERTO</statusdoc>
+    <rg>466593</rg>
+    <datanascimento>21/04/1981</datanascimento>
+    <fone>68999205670</fone>
+  </registro_cr>
+</DocumentElement>
